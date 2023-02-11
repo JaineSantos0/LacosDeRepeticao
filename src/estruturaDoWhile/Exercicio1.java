@@ -17,7 +17,6 @@ public class Exercicio1 {
                 somaNumeros += numero;
             }
         } while (numero != 0);
-
         System.out.println("A soma dos números positivos é: " + somaNumeros);
         }
     }
